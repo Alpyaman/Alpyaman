@@ -1,9 +1,16 @@
-# 👋 Hi, I'm Alp Yaman
+<h1 align="center">👋 Hi, I'm Alp Yaman</h1>
 
-I'm a Data Scientist with a strong foundation in Python, data analysis, and machine learning. I specialize in building clean, efficient pipelines that solve real-world business problems — from predicting customer churn to detecting fraud and forecasting with XGBoost.
+<p align="center">
+  Data Scientist · Machine Learning Specialist · Python Automation
+</p>
+
+<p align="center">
+  <a href="https://www.upwork.com/freelancers/~012e02fa4fc926c182"><img src="https://img.shields.io/badge/Upwork-Freelancer-success?style=for-the-badge&logo=Upwork&logoColor=white"></a>
+  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/email-contact@example.com-red?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://github.com/yourusername"><img src="https://img.shields.io/github/followers/yourusername?style=for-the-badge&label=Follow&logo=github"></a>
+</p>
 
 ---
-
 ## 🚀 What I Do
 
 - 🎯 Machine Learning & Predictive Modeling  
