@@ -43,7 +43,7 @@ I'm a Data Scientist with a strong foundation in Python, data analysis, and mach
 
 - 📧 Email: [alpyaman3@gmail.com](mailto:alpyaman3@gmail.com)
 - 🌐 LinkedIn: [linkedin](linkedin.com/in/alp-yaman-75a901174/)
-- 🧑‍💻 Upwork: [upwork.com/freelancers/~012e02fa4fc926c182](https://www.upwork.com/freelancers/~012e02fa4fc926c182)
+- 🧑‍💻 Upwork: [upwork.com/freelancers/AlpYaman](https://www.upwork.com/freelancers/~012e02fa4fc926c182)
 
 ---
 
