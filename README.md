@@ -45,10 +45,16 @@
 
 | Project | Description | Tools |
 |--------|-------------|-------|
-| 🎯 **[Customer Churn Prediction](https://github.com/Alpyaman/telco_churn_project)** | ML model to predict churn with high F1-score | `Python`, `LogReg`, `DecisionTree`, `EDA` |
-| 🛡️ **[Credit Card Fraud Detection](https://github.com/Alpyaman/Credit-Card-Fraud-Detection-Kaggle)** | Anomaly detection using SMOTE & XGBoost | `Python`, `XGBoost`, `SMOTE` |
-| 🚢 **[Titanic Survival Prediction](https://github.com/Alpyaman/Titanic_ML_From_Disaster)** | Feature‑engineered model achieving 83.3% accuracy | `LightGBM`, `XGBoost`, `Feature Eng.` |
-| 🏡 **[House Price Prediction](https://github.com/Alpyaman/House_Price_Prediction_Project)** | XGBoost regression model, GridSearch optimized | `XGBoost`, `Pipeline`, `GridSearchCV` |
+| 🚢 [Titanic ML From Disaster](https://github.com/Alpyaman/Titanic_ML_From_Disaster) | Survival prediction using feature-engineered ensemble models | `XGBoost`, `LightGBM`, `EDA`, `GridSearchCV` |
+| 🏡 [House Price Prediction Project](https://github.com/Alpyaman/House_Price_Prediction_Project) | XGBoost regression pipeline with advanced tuning and evaluation | `XGBoost`, `Pipeline`, `GridSearch`, `RMSE` |
+| 🛡️ [Credit Card Fraud Detection](https://github.com/Alpyaman/Credit_Card_Fraud_Detection_Kaggle) | Binary classification with anomaly detection & SMOTE balancing | `SMOTE`, `XGBoost`, `Precision-Recall` |
+| 📞 [Telco Churn Prediction](https://github.com/Alpyaman/Telco_Churn_Prediction) | Predicting churn probability and behavior patterns | `LogReg`, `RandomForest`, `EDA`, `Confusion Matrix` |
+| 🎬 [Movie Recommender System](https://github.com/Alpyaman/Content_Based_Movie_Recommender) | Streamlit app recommending similar movies using cosine similarity | `Pandas`, `TF-IDF`, `Streamlit` |
+| 💰 [Sales Forecasting Project](https://github.com/Alpyaman/Sales_Forecasting_Project) | Time-series forecasting with feature engineering and ensemble models | `RandomForest`, `Lag Features`, `TimeSeriesSplit` |
+| 🧮 [Customer Segmentation (RFM)](https://github.com/Alpyaman/Customer_Segmentation_RFM) | Cluster analysis for targeted marketing using RFM and KMeans/DBSCAN | `RFM`, `KMeans`, `DBSCAN`, `Agglomerative`, `Plotly`, `Streamlit` |
+| 📉 [Stock Trend Prediction](https://github.com/Alpyaman/Stock_Trend_Prediction) | Predicting buy/sell signals with XGBoost, RF and voting ensembles | `XGBoost`, `RandomForest`, `TimeSeriesCV`, `Feature Importance` |
+| 🌿 [Plant Disease Classifier (CNN)](https://github.com/Alpyaman/Plant_Disease_Classifier_CNN) | CNN and Transfer Learning model to classify 15 leaf diseases | `TensorFlow`, `MobileNetV2`, `Augmentation`, `Colab`, `Confusion Matrix` |
+
 
 > 📁 View all projects on my GitHub: [github.com/Alpyaman](https://github.com/Alpyaman?tab=repositories)
 
@@ -57,7 +63,7 @@
 ## 📫 Contact & Links
 
 - 💼 Upwork: [upwork.com/freelancers/~012e02fa4fc926c182](https://www.upwork.com/freelancers/~012e02fa4fc926c182)  
-- 🌐 LinkedIn: [linkedin.com/in/your-profile](https://linkedin.com/in/alp-yaman-75a901174/) _(optional)_  
+- 🌐 LinkedIn: [linkedin.com/in/alp-yaman-75a901174](https://linkedin.com/in/alp-yaman-75a901174/) 
 
 ---
 
