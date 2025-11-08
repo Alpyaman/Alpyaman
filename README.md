@@ -15,6 +15,8 @@
 
 ---
 
+![Alp's GitHub stats](https://github-readme-stats.vercel.app/api?username=Alpyaman&show_icons=true&theme=transparent)
+
 ## 🚀 What I Do
 
 - Machine Learning & Predictive Modeling  
