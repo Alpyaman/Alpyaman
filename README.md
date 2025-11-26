@@ -40,20 +40,20 @@
  
 ## 🚀 About Me
  
-Passionate **Data Scientist** and **Machine Learning Specialist** with a strong track record in building end-to-end ML solutions.I specialize in transforming raw data into actionable insights and deploying production-ready models.
+Passionate **Data Scientist** and **Machine Learning Specialist** with a strong track record in building end-to-end ML solutions. I specialize in transforming raw data into actionable insights and deploying production-ready models.
  
 ```python
 class AlpYaman:
     def __init__(self):
         self.role = "Data Scientist & ML Specialist"
         self.location = "Turkey"
-        self.expertise = ["Machine Learning", "Data Science", "Python Automation"]
-        self.currently_learning = ["Deep Learning", "MLOps", "Cloud Deployment"]
+        self.expertise = ["Machine Learning", "Data Science", "NLP & RAG", "Python Automation"]
+        self.currently_learning = ["Deep Learning", "MLOps", "Cloud Deployment", "LLM Applications"]
         self.available_for = ["Freelance Projects", "Consulting", "Collaboration"]
- 
+
     def say_hi(self):
         print("Thanks for dropping by! Let's build something amazing together!")
- 
+
 me = AlpYaman()
 me.say_hi()
 ```
@@ -84,6 +84,7 @@ me.say_hi()
 ## 🚀 What I Do
  
 - 🤖 **Machine Learning & Predictive Modeling** - Building robust ML pipelines and predictive systems
+- 🧠 **Natural Language Processing (NLP) & RAG** - Building intelligent document Q&A and retrieval systems
 - 🧹 **Data Cleaning & Feature Engineering** - Transforming messy data into ML-ready datasets
 - 📊 **Exploratory Data Analysis (EDA)** - Uncovering hidden patterns and insights
 - ⚡ **Model Optimization & Hyperparameter Tuning** - Squeezing out maximum model performance
@@ -113,6 +114,15 @@ me.say_hi()
   <img src="https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white"/>
 </p>
  
+### 🧠 NLP & RAG Technologies
+<p>
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ChromaDB-FF6F00?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/FAISS-0467DF?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
+</p>
+
 ### 📈 Visualization & Deployment
 <p>
   <img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge"/>
@@ -120,7 +130,7 @@ me.say_hi()
   <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white"/>
   <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
 </p>
- 
+
 ### 🔧 Tools & Platforms
 <p>
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
@@ -144,7 +154,8 @@ me.say_hi()
 | 🧮 [Customer Segmentation (RFM)](https://github.com/Alpyaman/Customer_Segmentation_RFM) | Cluster analysis for targeted marketing using RFM and KMeans/DBSCAN | `RFM`, `KMeans`, `DBSCAN`, `Plotly`, `Streamlit` | ![Stars](https://img.shields.io/github/stars/Alpyaman/Customer_Segmentation_RFM?style=social) |
 | 📉 [Stock Trend Prediction](https://github.com/Alpyaman/Stock_Trend_Prediction) | Predicting buy/sell signals with XGBoost, RF and voting ensembles | `XGBoost`, `RandomForest`, `TimeSeriesCV` | ![Stars](https://img.shields.io/github/stars/Alpyaman/Stock_Trend_Prediction?style=social) |
 | 🌿 [Plant Disease Classifier](https://github.com/Alpyaman/Plant_Disease_Classifier_CNN) | CNN and Transfer Learning model to classify 15 leaf diseases | `TensorFlow`, `MobileNetV2`, `Augmentation`, `Colab` | ![Stars](https://img.shields.io/github/stars/Alpyaman/Plant_Disease_Classifier_CNN?style=social) |
- 
+| 🤖 [RAG Document QA System](https://github.com/Alpyaman/RAG_Document_QA) | Retrieval-Augmented Generation system for intelligent document Q&A | `LangChain`, `OpenAI`, `ChromaDB`, `FAISS`, `Streamlit` | ![Stars](https://img.shields.io/github/stars/Alpyaman/RAG_Document_QA?style=social) |
+
 <p align="center">
   <a href="https://github.com/Alpyaman?tab=repositories">
     <img src="https://img.shields.io/badge/View_All_Projects-100000?style=for-the-badge&logo=github&logoColor=white"/>
@@ -160,12 +171,17 @@ Deep_Learning:
   - Advanced Neural Network Architectures
   - Computer Vision with CNNs and Transfer Learning
   - Natural Language Processing (NLP)
- 
+
+LLM_&_RAG:
+  - Large Language Models (LLMs) and Prompt Engineering
+  - Advanced RAG Architectures and Vector Databases
+  - Fine-tuning and Adapting LLMs
+
 MLOps:
   - Model Deployment and Monitoring
   - CI/CD for ML Pipelines
   - Docker and Containerization
- 
+
 Cloud_Platforms:
   - AWS SageMaker
   - Google Cloud AI Platform
@@ -192,7 +208,7 @@ Cloud_Platforms:
  
 - 🇹🇷 **Turkish** - Native
 - 🇬🇧 **English** - Professional Working Proficiency
-- 🐍 **Python** - Fluen
+- 🐍 **Python** - Fluent
  
 ---
  
