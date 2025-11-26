@@ -40,20 +40,20 @@
  
 ## 🚀 About Me
  
-Passionate **Data Scientist** and **Machine Learning Specialist** with a strong track record in building end-to-end ML solutions.I specialize in transforming raw data into actionable insights and deploying production-ready models.
+Passionate **Data Scientist** and **Machine Learning Specialist** with a strong track record in building end-to-end ML solutions. I specialize in transforming raw data into actionable insights and deploying production-ready models.
  
 ```python
 class AlpYaman:
     def __init__(self):
         self.role = "Data Scientist & ML Specialist"
         self.location = "Turkey"
-        self.expertise = ["Machine Learning", "Data Science", "Python Automation"]
-        self.currently_learning = ["Deep Learning", "MLOps", "Cloud Deployment"]
+        self.expertise = ["Machine Learning", "Data Science", "NLP & RAG", "Python Automation"]
+        self.currently_learning = ["Deep Learning", "MLOps", "Cloud Deployment", "LLM Applications"]
         self.available_for = ["Freelance Projects", "Consulting", "Collaboration"]
- 
+
     def say_hi(self):
         print("Thanks for dropping by! Let's build something amazing together!")
- 
+
 me = AlpYaman()
 me.say_hi()
 ```
@@ -84,6 +84,7 @@ me.say_hi()
 ## 🚀 What I Do
  
 - 🤖 **Machine Learning & Predictive Modeling** - Building robust ML pipelines and predictive systems
+- 🧠 **Natural Language Processing (NLP) & RAG** - Building intelligent document Q&A and retrieval systems
 - 🧹 **Data Cleaning & Feature Engineering** - Transforming messy data into ML-ready datasets
 - 📊 **Exploratory Data Analysis (EDA)** - Uncovering hidden patterns and insights
 - ⚡ **Model Optimization & Hyperparameter Tuning** - Squeezing out maximum model performance
@@ -111,6 +112,16 @@ me.say_hi()
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
   <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
   <img src="https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white"/>
+</p>
+
+### 🧠 NLP & RAG Technologies
+
+<p>
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ChromaDB-FF6F00?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/FAISS-0467DF?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
 </p>
  
 ### 📈 Visualization & Deployment
@@ -158,7 +169,12 @@ Deep_Learning:
   - Advanced Neural Network Architectures
   - Computer Vision with CNNs and Transfer Learning
   - Natural Language Processing (NLP)
- 
+
+LLM_&_RAG:
+  - Large Language Models (LLMs) and Prompt Engineering
+  - Advanced RAG Architectures and Vector Databases
+  - Fine-tuning and Adapting LLMs
+
 MLOps:
   - Model Deployment and Monitoring
   - CI/CD for ML Pipelines
