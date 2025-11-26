@@ -135,16 +135,14 @@ me.say_hi()
  
 | Project | Description | Tools | Stars |
 |--------|-------------|-------|-------|
-| 🚢 [Titanic ML From Disaster](https://github.com/Alpyaman/Titanic_ML_From_Disaster) | Survival prediction using feature-engineered ensemble models | `XGBoost`, `LightGBM`, `EDA`, `GridSearchCV` | ![Stars](https://img.shields.io/github/stars/Alpyaman/Titanic_ML_From_Disaster?style=social) |
-| 🏡 [House Price Prediction](https://github.com/Alpyaman/House_Price_Prediction_Project) | XGBoost regression pipeline with advanced tuning and evaluation | `XGBoost`, `Pipeline`, `GridSearch`, `RMSE` | ![Stars](https://img.shields.io/github/stars/Alpyaman/House_Price_Prediction_Project?style=social) |
-| 🛡️ [Credit Card Fraud Detection](https://github.com/Alpyaman/Credit_Card_Fraud_Detection_Kaggle) | Binary classification with anomaly detection & SMOTE balancing | `SMOTE`, `XGBoost`, `Precision-Recall` | ![Stars](https://img.shields.io/github/stars/Alpyaman/Credit_Card_Fraud_Detection_Kaggle?style=social) |
-| 📞 [Telco Churn Prediction](https://github.com/Alpyaman/Telco_Churn_Prediction) | Predicting churn probability and behavior patterns | `LogReg`, `RandomForest`, `EDA`, `Confusion Matrix` | ![Stars](https://img.shields.io/github/stars/Alpyaman/Telco_Churn_Prediction?style=social) |
+| 🤖 [RAG Document Assistant](https://github.com/Alpyaman/RAG-Document-Assistant) | Retrieval-Augmented Generation system for intelligent document assistance | `LangChain`, `OpenAI`, `ChromaDB`, `FAISS`, `Streamlit` | ![Stars](https://img.shields.io/github/stars/Alpyaman/RAG_Document_QA?style=social) |
+| 🛡️ [Credit Card Fraud Detection](https://github.com/Alpyaman/Credit-Card-Fraud-Detection-Kaggle) | Binary classification with anomaly detection & SMOTE balancing | `SMOTE`, `XGBoost`, `Precision-Recall` | ![Stars](https://img.shields.io/github/stars/Alpyaman/Credit_Card_Fraud_Detection_Kaggle?style=social) |
+| 📞 [Telco Churn Prediction](https://github.com/Alpyaman/telco_churn_project) | Predicting churn probability and behavior patterns | `LogReg`, `RandomForest`, `EDA`, `Confusion Matrix` | ![Stars](https://img.shields.io/github/stars/Alpyaman/Telco_Churn_Prediction?style=social) |
 | 🎬 [Movie Recommender System](https://github.com/Alpyaman/Content_Based_Movie_Recommender) | Streamlit app recommending similar movies using cosine similarity | `Pandas`, `TF-IDF`, `Streamlit` | ![Stars](https://img.shields.io/github/stars/Alpyaman/Content_Based_Movie_Recommender?style=social) |
 | 💰 [Sales Forecasting](https://github.com/Alpyaman/Sales_Forecasting_Project) | Time-series forecasting with feature engineering and ensemble models | `RandomForest`, `Lag Features`, `TimeSeriesSplit` | ![Stars](https://img.shields.io/github/stars/Alpyaman/Sales_Forecasting_Project?style=social) |
 | 🧮 [Customer Segmentation (RFM)](https://github.com/Alpyaman/Customer_Segmentation_RFM) | Cluster analysis for targeted marketing using RFM and KMeans/DBSCAN | `RFM`, `KMeans`, `DBSCAN`, `Plotly`, `Streamlit` | ![Stars](https://img.shields.io/github/stars/Alpyaman/Customer_Segmentation_RFM?style=social) |
 | 📉 [Stock Trend Prediction](https://github.com/Alpyaman/Stock_Trend_Prediction) | Predicting buy/sell signals with XGBoost, RF and voting ensembles | `XGBoost`, `RandomForest`, `TimeSeriesCV` | ![Stars](https://img.shields.io/github/stars/Alpyaman/Stock_Trend_Prediction?style=social) |
-| 🌿 [Plant Disease Classifier](https://github.com/Alpyaman/Plant_Disease_Classifier_CNN) | CNN and Transfer Learning model to classify 15 leaf diseases | `TensorFlow`, `MobileNetV2`, `Augmentation`, `Colab` | ![Stars](https://img.shields.io/github/stars/Alpyaman/Plant_Disease_Classifier_CNN?style=social) |
- 
+| 🌿 [Plant Disease Classifier](https://github.com/Alpyaman/Plant_Disease_Classifier) | CNN and Transfer Learning model to classify 15 leaf diseases | `TensorFlow`, `MobileNetV2`, `Augmentation`, `Colab` | ![Stars](https://img.shields.io/github/stars/Alpyaman/Plant_Disease_Classifier_CNN?style=social) |
 <p align="center">
   <a href="https://github.com/Alpyaman?tab=repositories">
     <img src="https://img.shields.io/badge/View_All_Projects-100000?style=for-the-badge&logo=github&logoColor=white"/>
@@ -192,7 +190,7 @@ Cloud_Platforms:
  
 - 🇹🇷 **Turkish** - Native
 - 🇬🇧 **English** - Professional Working Proficiency
-- 🐍 **Python** - Fluen
+- 🐍 **Python** - Fluent
  
 ---
  
