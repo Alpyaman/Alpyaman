@@ -149,6 +149,7 @@ me.say_hi()
 | 🧮 [Customer Segmentation (RFM)](https://github.com/Alpyaman/Customer_Segmentation) | Cluster analysis for targeted marketing using RFM and KMeans/DBSCAN | `RFM`, `KMeans`, `DBSCAN`, `Plotly`, `Streamlit` | ![Stars](https://img.shields.io/github/stars/Alpyaman/Customer_Segmentation_RFM?style=social) |
 | 📉 [Stock Trend Prediction](https://github.com/Alpyaman/Stock_Trend_Prediction) | Predicting buy/sell signals with XGBoost, RF and voting ensembles | `XGBoost`, `RandomForest`, `TimeSeriesCV` | ![Stars](https://img.shields.io/github/stars/Alpyaman/Stock_Trend_Prediction?style=social) |
 | 🌿 [Plant Disease Classifier](https://github.com/Alpyaman/Plant_Disease_Classifier) | CNN and Transfer Learning model to classify 15 leaf diseases | `TensorFlow`, `MobileNetV2`, `Augmentation`, `Colab` | ![Stars](https://img.shields.io/github/stars/Alpyaman/Plant_Disease_Classifier_CNN?style=social) |
+| 🎯 [Real-Time Object Detection](https://github.com/Alpyaman/Real_Time_Object_Detection) | High-performance YOLOv8/v11 system with ByteTrack & DeepSORT tracking | `YOLOv8`, `PyTorch`, `OpenCV`, `ByteTrack`, `Streamlit` | ![Stars](https://img.shields.io/github/stars/Alpyaman/Real_Time_Object_Detection?style=social) |
 <p align="center">
   <a href="https://github.com/Alpyaman?tab=repositories">
     <img src="https://img.shields.io/badge/View_All_Projects-100000?style=for-the-badge&logo=github&logoColor=white"/>
